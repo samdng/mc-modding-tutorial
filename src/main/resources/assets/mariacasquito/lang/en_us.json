@@ -3,6 +3,9 @@
   "block.examplemod.example_block": "Example Block",
   "item.examplemod.example_item": "Example Item",
 
+  "item.mariacasquito.bluecore": "Blue Core",
+  "item.mariacasquito.redcore": "Red Core",
+
   "examplemod.configuration.title": "Example Mod Configs",
   "examplemod.configuration.section.examplemod.common.toml": "Example Mod Configs",
   "examplemod.configuration.section.examplemod.common.toml.title": "Example Mod Configs",
